@@ -1,8 +1,8 @@
-package Module2CriticalThinking;
+package Module3CriticalThinking;
 
 import java.util.Scanner;
 
-public class Module2CriticalThinking {
+public class Module3CriticalThinking {
 	
 	public static void main(String[] args) {
 		Scanner scnr = new Scanner(System.in);
